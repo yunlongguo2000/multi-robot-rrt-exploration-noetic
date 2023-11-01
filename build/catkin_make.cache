@@ -1,2 +1,0 @@
-ros_multi_tb3:rrt_exploration
--DCATKIN_DEVEL_PREFIX=/home/yunlong/Ubuntu Proj/multi-robot-rrt-exploration-noetic/devel -DCMAKE_INSTALL_PREFIX=/home/yunlong/Ubuntu Proj/multi-robot-rrt-exploration-noetic/install -G Unix Makefiles
